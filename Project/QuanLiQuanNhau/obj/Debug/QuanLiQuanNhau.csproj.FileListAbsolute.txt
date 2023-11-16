@@ -1,0 +1,13 @@
+D:\Quanliquannhau\Project\QuanLiQuanNhau\bin\Debug\QuanLiQuanNhau.exe.config
+D:\Quanliquannhau\Project\QuanLiQuanNhau\bin\Debug\QuanLiQuanNhau.exe
+D:\Quanliquannhau\Project\QuanLiQuanNhau\bin\Debug\QuanLiQuanNhau.pdb
+D:\Quanliquannhau\Project\QuanLiQuanNhau\obj\Debug\QuanLiQuanNhau.csproj.AssemblyReference.cache
+D:\Quanliquannhau\Project\QuanLiQuanNhau\obj\Debug\QuanLiQuanNhau.frmLogin.resources
+D:\Quanliquannhau\Project\QuanLiQuanNhau\obj\Debug\QuanLiQuanNhau.Properties.Resources.resources
+D:\Quanliquannhau\Project\QuanLiQuanNhau\obj\Debug\QuanLiQuanNhau.csproj.GenerateResource.cache
+D:\Quanliquannhau\Project\QuanLiQuanNhau\obj\Debug\QuanLiQuanNhau.csproj.CoreCompileInputs.cache
+D:\Quanliquannhau\Project\QuanLiQuanNhau\obj\Debug\QuanLiQuanNhau.exe
+D:\Quanliquannhau\Project\QuanLiQuanNhau\obj\Debug\QuanLiQuanNhau.pdb
+D:\Quanliquannhau\Project\QuanLiQuanNhau\obj\Debug\QuanLiQuanNhau.frmTableManager.resources
+D:\Quanliquannhau\Project\QuanLiQuanNhau\obj\Debug\QuanLiQuanNhau.frmAccountProfile.resources
+D:\Quanliquannhau\Project\QuanLiQuanNhau\obj\Debug\QuanLiQuanNhau.frmAdmin.resources
